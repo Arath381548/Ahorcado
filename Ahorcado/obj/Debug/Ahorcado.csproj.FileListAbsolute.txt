@@ -1,0 +1,20 @@
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Usuario\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\PC MONKEY\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
